@@ -1,0 +1,85 @@
+{
+    "name": "NCSU Libraries",
+    "description": "Discover NC State, a leading public research university located in Raleigh, North Carolina. We produce career-ready graduates, groundbreaking research and problem-solving partnerships. We think and do.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/866-ncsu-libraries.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "libraries"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ncsu-libraries\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "NCSU Libraries",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/866-ncsu-libraries.jpg",
+            "humanURL": "http:\/\/www.lib.ncsu.edu\/dli\/projects\/catalogws\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ncsu-libraries-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ncsu-libraries-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/news.lib.ncsu.edu\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/north-carolina-state-university"
+        },
+        {
+            "type": "Email",
+            "url": "web_feedback@ncsu.edu"
+        },
+        {
+            "type": "Email",
+            "url": "undergrad_admissions@ncsu.edu"
+        },
+        {
+            "type": "Email",
+            "url": "newstips@ncsu.edu"
+        },
+        {
+            "type": "Email",
+            "url": "undergrad-admissions@ncsu.edu"
+        },
+        {
+            "type": "Email",
+            "url": "data-privacy@ncsu.edu"
+        },
+        {
+            "type": "Email",
+            "url": "ncsuparents@ncsu.edu"
+        },
+        {
+            "type": "Email",
+            "url": "pj_teal@ncsu.edu"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ncsulibraries"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NCState"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.lib.ncsu.edu\/dli\/projects\/catalogws\/"
+        }
+    ]
+}
